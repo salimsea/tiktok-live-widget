@@ -1,8 +1,10 @@
 # TIKTOK LIVE WIDGET (Node.Js)
+
 for content creator live on tiktok
 
 step run project :
-1. git clone this project
+
+1. git clone this project.
 2. install nodejs
 3. open project go terminal
 4. change username in line 5
